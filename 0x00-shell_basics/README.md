@@ -8,3 +8,4 @@
 7-movethatfile
 8-fisrtdelete
 9-firstdirdelete
+10-back
