@@ -6,3 +6,4 @@ shell permissions0x01
 4-empty update
 5-execute update
 6-multiple_permissions update
+7-everybody update
