@@ -5,3 +5,4 @@ shell permissions0x01
 3-new_owner update
 4-empty update
 5-execute update
+6-multiple_permissions update
