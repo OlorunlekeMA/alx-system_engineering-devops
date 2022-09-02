@@ -13,3 +13,4 @@ shell permissions0x01
 11-directories_permissions update
 12-directory_permissions
 13-change_group
+15- symbolic links
