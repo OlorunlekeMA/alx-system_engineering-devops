@@ -8,3 +8,4 @@ shell permissions0x01
 6-multiple_permissions update
 7-everybody update
 8-James_Bond update
+9-John_Doe update
