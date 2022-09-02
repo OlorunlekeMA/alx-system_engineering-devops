@@ -10,3 +10,4 @@ shell permissions0x01
 8-James_Bond update
 9-John_Doe update
 10-mirror_permissions
+11-directories_permissions update
