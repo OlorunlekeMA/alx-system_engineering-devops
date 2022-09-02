@@ -11,3 +11,4 @@ shell permissions0x01
 9-John_Doe update
 10-mirror_permissions
 11-directories_permissions update
+12-directory_permissions
