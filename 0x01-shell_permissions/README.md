@@ -12,3 +12,4 @@ shell permissions0x01
 10-mirror_permissions
 11-directories_permissions update
 12-directory_permissions
+13-change_group
