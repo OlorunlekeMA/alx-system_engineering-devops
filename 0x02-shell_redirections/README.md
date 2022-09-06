@@ -23,3 +23,4 @@ shell redirections
 21.reverse
 22.dj cut killer
 23.empty casks
+24.101-gifs
