@@ -5,3 +5,4 @@ shell redirections
 3.what about 2?
 4.last lines of a file
 5.I'd prefer the first lines
+6.line #2
