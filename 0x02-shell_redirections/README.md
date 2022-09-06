@@ -6,3 +6,4 @@ shell redirections
 4.last lines of a file
 5.I'd prefer the first lines
 6.line #2
+7.it is a good file that cuts iron without making noise
