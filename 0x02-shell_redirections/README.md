@@ -8,3 +8,4 @@ shell redirections
 6.line #2
 7.it is a good file that cuts iron without making noise
 8.save current state of directory
+9.duplicate the last line
