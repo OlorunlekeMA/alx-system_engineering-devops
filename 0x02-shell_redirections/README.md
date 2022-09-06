@@ -21,3 +21,4 @@ shell redirections
 19.az
 20.hiago
 21.reverse
+22.dj cut killer
