@@ -16,3 +16,4 @@ shell redirections
 14.findthatword
 15.count that word
 16.whats next?
+17.hide this word
