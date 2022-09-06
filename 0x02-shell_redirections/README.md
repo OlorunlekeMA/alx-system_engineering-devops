@@ -10,3 +10,4 @@ shell redirections
 8.save current state of directory
 9.duplicate the last line
 10.no more js
+11.11-directories
