@@ -14,3 +14,4 @@ shell redirections
 12.whats new
 13.unique
 14.findthatword
+15.count that word
