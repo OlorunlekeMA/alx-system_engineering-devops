@@ -9,3 +9,4 @@ shell redirections
 7.it is a good file that cuts iron without making noise
 8.save current state of directory
 9.duplicate the last line
+10.no more js
